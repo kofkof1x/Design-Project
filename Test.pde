@@ -1,5 +1,6 @@
 
 void setup(){
+  int watery = -200;
   size(900, 800);
   background(30, 35, 30);
   for(int i = 0; i < 4; i++){
