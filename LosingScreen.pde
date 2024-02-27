@@ -7,4 +7,3 @@ void draw() {
     textSize(50);
     text("Your Final Score:", 200, 500);
 }
-
